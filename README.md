@@ -3,4 +3,4 @@ An interesting eliminate game, you can use keyboard and mouse to control. I wish
 (使用旧版控制台)
 
 
-![]（https://github.com/bz99bz/img-folder//master/捕获.png)
+![]（https://github.com/bz99bz/img-folder/raw/master/捕获.png)
